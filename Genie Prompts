@@ -745,3 +745,323 @@ Provide:
 15. Critical Architectural Warnings
 16. What NOT To Build Yet
 17. Final Strategic Recommendation
+
+
+
+
+
+
+
+
+
+
+
+
+
+You are now acting as:
+
+* Principal Enterprise AI Architect
+* Principal GenAI Product Strategist
+* Enterprise Legal AI Platform Engineer
+* Databricks GenAI Acceleration Lead
+* Enterprise Contract Intelligence Architect
+
+You have already analyzed the COMPLETE Contract_Codification_Pipeline system including:
+
+* architecture,
+* OCR/parsing,
+* extraction,
+* retrieval,
+* trust/governance,
+* evaluation framework,
+* and implementation roadmap.
+
+Now your task is DIFFERENT.
+
+==================================================
+OBJECTIVE
+=========
+
+I DO NOT want long-term enterprise productionization planning right now.
+
+I want the FASTEST and HIGHEST IMPACT evolution path for the CURRENT platform.
+
+The goal is to rapidly evolve the existing project into something that:
+
+* feels highly intelligent,
+* demonstrates strong contract understanding,
+* provides strong user value,
+* creates stakeholder excitement,
+* improves retrieval capability,
+* improves trust visibility,
+* and significantly enhances user experience QUICKLY.
+
+The focus is:
+
+* maximum visible intelligence,
+* maximum business impact,
+* minimum implementation time,
+* and rapid evolution of the CURRENT architecture.
+
+==================================================
+IMPORTANT CONTEXT
+=================
+
+The current platform ALREADY has:
+
+* OCR pipeline
+* metadata extraction
+* LLM extraction
+* consolidation
+* amendment handling
+* Delta tables
+* validation logic
+* audit logic
+* Genie integration
+* structured serving
+* historical tracking
+* provider normalization
+
+So do NOT redesign everything from scratch.
+
+Instead:
+
+* evolve the CURRENT architecture intelligently,
+* leverage what already exists,
+* and identify the MOST impactful improvements that can realistically be implemented QUICKLY.
+
+==================================================
+YOUR TASK
+=========
+
+Design the COMPLETE RAPID EVOLUTION STRATEGY for the current platform.
+
+==================================================
+SECTION 1 — HIGHEST IMPACT CAPABILITIES
+=======================================
+
+Identify the TOP capabilities that would:
+
+* most impress users,
+* most improve contract intelligence,
+* most improve retrieval experience,
+* most improve perceived intelligence,
+* most improve trust,
+* and most increase platform value QUICKLY.
+
+Examples may include:
+
+* clause semantic search
+* vector search
+* hybrid retrieval
+* amendment comparison
+* semantic clause lookup
+* contract comparison
+* historical intelligence
+* citation display
+* confidence display
+* source traceability
+* semantic query understanding
+* interactive Genie experiences
+* intelligent dashboards
+* contract relationship exploration
+
+For EACH capability explain:
+
+* why it matters,
+* expected user impact,
+* business impact,
+* trust impact,
+* implementation complexity,
+* implementation time,
+* architectural dependencies,
+* and whether it should be implemented immediately.
+
+==================================================
+SECTION 2 — RAPID IMPLEMENTATION PRIORITIES
+===========================================
+
+Design the BEST implementation sequence optimized for:
+
+* speed,
+* visible value,
+* stakeholder excitement,
+* and technical feasibility.
+
+Create:
+
+1. Immediate quick wins (1-3 days)
+2. High-value implementations (1 week)
+3. Medium-complexity intelligence upgrades (2-4 weeks)
+4. Longer-term advanced capabilities
+
+For EACH item provide:
+
+* expected implementation effort,
+* expected impact,
+* architectural changes required,
+* data model changes required,
+* Databricks services required,
+* risk level,
+* and expected visible user benefit.
+
+==================================================
+SECTION 3 — SEMANTIC SEARCH & RETRIEVAL EVOLUTION
+=================================================
+
+Analyze the BEST way to quickly evolve the current system into a more intelligent retrieval platform.
+
+Specifically evaluate:
+
+* clause embeddings
+* vector search
+* semantic clause retrieval
+* hybrid retrieval
+* metadata filtering
+* semantic ranking
+* contract semantic search
+* amendment semantic search
+* contextual retrieval
+* clause similarity
+* provider comparison
+* semantic query routing
+
+IMPORTANT:
+Design this specifically around the CURRENT architecture and existing Delta tables.
+
+Do NOT give generic RAG advice.
+
+Explain:
+
+* what should actually be implemented FIRST,
+* what gives maximum visible intelligence,
+* what is safest technically,
+* and what should wait.
+
+==================================================
+SECTION 4 — USER EXPERIENCE EVOLUTION
+=====================================
+
+Design how the platform experience should evolve QUICKLY.
+
+Explain:
+
+* what users should be able to search,
+* what outputs should look like,
+* how trust should be displayed,
+* how citations should appear,
+* how amendment comparisons should work,
+* how contract comparisons should work,
+* how historical intelligence should work,
+* and how Genie should be used effectively.
+
+Design:
+
+* ideal query flows,
+* ideal output formats,
+* ideal trust indicators,
+* ideal intelligence demonstrations.
+
+==================================================
+SECTION 5 — FASTEST “WOW FACTOR” FEATURES
+=========================================
+
+Identify the features that would create the BIGGEST stakeholder/user reaction with relatively LOW implementation effort.
+
+Prioritize:
+
+* high visual impact,
+* high intelligence perception,
+* high usefulness,
+* high trust perception.
+
+Examples:
+
+* “Find all termination clauses”
+* “Compare reimbursement logic between providers”
+* “What changed in amendment 4?”
+* “Show all carve-outs for emergency services”
+* “Find clauses related to disputes”
+* “Show historical reimbursement changes”
+* “Find similar clauses across providers”
+
+For EACH feature provide:
+
+* why it creates impact,
+* implementation difficulty,
+* required backend changes,
+* required retrieval changes,
+* and whether it is realistic to implement quickly.
+
+==================================================
+SECTION 6 — WHAT SHOULD NOT BE BUILT YET
+========================================
+
+Clearly identify:
+
+* what would slow the project down,
+* what is over-engineering,
+* what is low-value right now,
+* what creates unnecessary complexity,
+* and what should wait until later maturity.
+
+Specifically evaluate:
+
+* GraphRAG
+* agents
+* multi-agent orchestration
+* advanced orchestration frameworks
+* embedding fine-tuning
+* custom model training
+* autonomous workflows
+* complex evaluation systems
+* enterprise CI/CD
+* advanced governance systems
+
+==================================================
+SECTION 7 — RECOMMENDED NEXT IMPLEMENTATIONS
+============================================
+
+Create a VERY CONCRETE prioritized implementation plan including:
+
+1. What should be implemented FIRST
+2. What should be implemented THIS WEEK
+3. What should be implemented BEFORE stakeholder demos
+4. What should be implemented AFTER demos
+5. What gives the fastest visible intelligence boost
+6. What gives the fastest trust boost
+7. What gives the strongest user adoption potential
+
+==================================================
+SECTION 8 — FINAL STRATEGIC RECOMMENDATION
+==========================================
+
+Provide:
+
+1. The BEST rapid evolution strategy
+2. The BEST immediate next step
+3. The MOST important capability to implement now
+4. The BIGGEST opportunity area
+5. The BIGGEST architectural risk
+6. The FASTEST path to a highly impressive platform
+7. The FASTEST path to visible AI intelligence
+8. The FASTEST path to strong stakeholder confidence
+
+==================================================
+IMPORTANT CONSTRAINTS
+=====================
+
+Your recommendations MUST:
+
+* leverage the CURRENT architecture,
+* be realistic,
+* avoid over-engineering,
+* optimize for visible intelligence,
+* optimize for user excitement,
+* optimize for rapid implementation,
+* and maximize platform evolution speed.
+
+Do NOT redesign the entire platform.
+Do NOT give generic AI architecture advice.
+Base everything on the ACTUAL existing implementation.
+
