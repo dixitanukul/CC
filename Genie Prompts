@@ -376,3 +376,224 @@ High-Impact Improvements
 Long-Term Strategic Architecture
 Productionization Roadmap
 Final Enterprise Architecture Verdict
+
+
+
+
+
+You are now acting as:
+
+* Principal AI Evaluation Architect
+* Enterprise GenAI Reliability Engineer
+* Legal AI Benchmarking Specialist
+* Enterprise Contract Intelligence QA Architect
+
+You have already completed:
+
+* repository reconstruction,
+* OCR/parsing audit,
+* retrieval architecture analysis,
+* trust/governance review,
+* and future-state architecture design for the Contract_Codification_Pipeline project.
+
+Now your task is to design the COMPLETE ENTERPRISE EVALUATION, TESTING, BENCHMARKING, AND QUALITY ASSURANCE FRAMEWORK for this platform.
+
+==================================================
+OBJECTIVE
+=========
+
+Design a world-class evaluation framework that ensures:
+
+* enterprise trust,
+* extraction accuracy,
+* semantic retrieval quality,
+* hallucination minimization,
+* legal reliability,
+* regression prevention,
+* production stability,
+* and long-term model governance.
+
+The goal is to make this platform continuously measurable, testable, and improvable.
+
+==================================================
+CRITICAL REQUIREMENT
+====================
+
+Do NOT give generic AI evaluation advice.
+
+Design specifically for:
+
+* provider contracts
+* amendments
+* fee schedules
+* healthcare reimbursement contracts
+* legal clauses
+* complex rate tables
+* historical contract intelligence
+* semantic legal retrieval
+* grounded legal Q&A
+* Databricks-native enterprise systems
+
+==================================================
+ANALYZE CURRENT STATE FIRST
+===========================
+
+Before proposing the framework:
+
+* analyze the CURRENT evaluation mechanisms already implemented,
+* identify gaps,
+* identify where trust measurement is weak,
+* identify where hallucinations are currently undetectable,
+* identify where regressions can silently occur,
+* identify where semantic retrieval quality cannot currently be measured.
+
+==================================================
+DESIGN THE COMPLETE EVALUATION FRAMEWORK
+========================================
+
+Design detailed evaluation strategies for:
+
+1. OCR quality evaluation
+2. Table extraction evaluation
+3. Clause extraction evaluation
+4. Amendment extraction evaluation
+5. Rate attribution evaluation
+6. Provider identity resolution evaluation
+7. Historical version reconstruction evaluation
+8. Chunking quality evaluation
+9. Retrieval quality evaluation
+10. RAG grounding evaluation
+11. Citation correctness evaluation
+12. Hallucination detection evaluation
+13. Semantic search evaluation
+14. Clause similarity evaluation
+15. Legal Q&A evaluation
+16. Structured SQL answer evaluation
+17. Hybrid retrieval evaluation
+18. Human-review agreement scoring
+19. Cross-model consistency evaluation
+20. Production drift detection
+21. Model version regression testing
+22. Prompt regression testing
+23. Embedding drift evaluation
+24. Data quality SLA monitoring
+25. End-to-end trust scoring
+
+==================================================
+SPECIFIC QUESTIONS TO ANSWER
+============================
+
+Analyze and design:
+
+* What should the golden datasets look like?
+* How should contracts be manually labeled?
+* What should be clause-level benchmarks?
+* How should table extraction accuracy be measured?
+* How should semantic retrieval precision be measured?
+* How should hallucinations be detected automatically?
+* How should amendment supersession correctness be tested?
+* How should current-state materialization be validated?
+* How should enterprise trust scores be computed?
+* Which fields require human validation?
+* Which outputs are safe for automation?
+* How should regression testing work when prompts/models change?
+* How should evaluation scale to thousands of contracts?
+* How should evaluation run continuously in production?
+
+==================================================
+METRICS TO DESIGN
+=================
+
+Design exact metrics for:
+
+* Precision
+* Recall
+* F1
+* Clause completeness
+* Table reconstruction accuracy
+* Cell-level extraction accuracy
+* Citation precision
+* Retrieval precision@k
+* Semantic recall
+* Hallucination rate
+* Grounding score
+* Amendment reconstruction accuracy
+* Current-state accuracy
+* Provider-resolution accuracy
+* Legal clause similarity accuracy
+* Human-review agreement
+* Production confidence score
+* Trustworthiness score
+
+==================================================
+ENTERPRISE EVALUATION ARCHITECTURE
+==================================
+
+Design the ideal enterprise evaluation architecture including:
+
+* Evaluation datasets
+* Benchmark repositories
+* Human review workflows
+* LLM-as-judge usage
+* Automated regression pipelines
+* Continuous evaluation jobs
+* Model comparison framework
+* Prompt comparison framework
+* Experiment tracking
+* Audit dashboards
+* Evaluation Delta tables
+* Databricks-native orchestration
+* MLflow integration
+* Governance integration
+
+==================================================
+IMPORTANT CONSTRAINTS
+=====================
+
+The framework must support:
+
+* enterprise legal defensibility
+* auditability
+* reproducibility
+* large-scale contract processing
+* continuous model upgrades
+* future retrieval architecture upgrades
+* multiple LLM vendors
+* multiple embedding models
+* human-in-the-loop governance
+
+==================================================
+OUTPUT FORMAT
+=============
+
+Provide:
+
+1. Executive Summary
+2. Current Evaluation Gap Analysis
+3. Future-State Evaluation Architecture
+4. Golden Dataset Strategy
+5. OCR Evaluation Framework
+6. Table Extraction Evaluation Framework
+7. Clause Extraction Evaluation Framework
+8. Retrieval & RAG Evaluation Framework
+9. Hallucination Detection Framework
+10. Legal Q&A Evaluation Framework
+11. Regression Testing Framework
+12. Human Review Framework
+13. Continuous Production Monitoring Framework
+14. Enterprise Trust Scoring Framework
+15. Recommended Delta Tables & Metadata Models
+16. Recommended Databricks Services
+17. Recommended MLflow Integration
+18. Recommended Evaluation Pipelines
+19. Recommended Governance Controls
+20. Production Readiness Evaluation Checklist
+21. Priority-Wise Implementation Roadmap
+22. Final Enterprise Evaluation Strategy Verdict
+
+Base all recommendations on:
+
+* the CURRENT repository architecture,
+* enterprise Legal AI best practices,
+* and scalable Databricks-native GenAI system design.
+
