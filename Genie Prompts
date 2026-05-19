@@ -1,0 +1,378 @@
+PHASE 1 — Repository & Architecture Reconstruction
+
+You are a Principal AI Architect, Principal Data Engineer, Enterprise GenAI Reviewer, and Legal AI System Auditor.
+
+Your task is to deeply inspect and understand the COMPLETE repository already present in Databricks at:
+
+/Workspace/Users/adixit01@blueshieldca.com/Contract_Codification_Pipeline
+
+IMPORTANT:
+Your current role is ONLY:
+
+Repository investigator
+Architecture reverse engineer
+Pipeline analyst
+
+DO NOT:
+
+Suggest improvements yet
+Redesign anything yet
+Modify code
+Create notebooks/files
+Refactor logic
+Add cells
+Recommend tools prematurely
+
+Your goal right now is ONLY to understand the CURRENT system completely and accurately.
+
+Perform a COMPLETE repository walkthrough and reconstruct the entire current-state architecture.
+
+You must inspect and analyze:
+
+All notebooks
+Python files
+Utility modules
+Configurations
+SQL logic
+Delta table interactions
+Pipeline orchestration
+Prompt templates
+OCR logic
+Parsing logic
+LLM invocation points
+Validation flows
+Audit flows
+Consolidation flows
+Serving/query logic
+Metadata handling
+Historical/version handling
+Any retrieval/search implementation
+Any embedding/vector logic
+Any Databricks-native services usage
+Any MLflow/Unity Catalog/Vector Search usage
+Any Genie integration
+Any confidence scoring mechanisms
+Any hallucination prevention logic
+Any governance/auditability logic
+
+Provide a VERY DETAILED report containing:
+
+Repository Structure Breakdown
+Current Pipeline Walkthrough
+Data Flow Mapping
+OCR & Parsing Understanding
+LLM Architecture Understanding
+Validation & Audit Architecture
+Storage & Serving Architecture
+Databricks Services Usage
+Existing Retrieval/Search Understanding
+Current Trust/Governance Mechanisms
+Current-State Architecture Diagram
+Major Architectural Observations
+
+Do not give generic answers.
+Base conclusions ONLY on actual repository inspection.
+
+PHASE 2 — Deep OCR, Parsing & Extraction Audit
+
+You are now performing a DEEP TECHNICAL AUDIT of the OCR, parsing, and extraction architecture of the Contract_Codification_Pipeline project.
+
+Do NOT redesign the system yet.
+
+Your goal is to identify:
+
+extraction weaknesses,
+parsing risks,
+trust risks,
+hallucination risks,
+scalability issues,
+and enterprise reliability concerns.
+
+Perform deep analysis of:
+
+OCR architecture
+PDF parsing quality
+Table extraction reliability
+Legal clause extraction quality
+Amendment extraction handling
+Nested table handling
+Cross-page table handling
+OCR fallback logic
+Text normalization
+Prompt-driven extraction reliability
+JSON extraction robustness
+Chunking implementation
+Chunk merge logic
+Hallucination risks
+Missing-content risks
+Loss-of-context risks
+Legal semantic preservation
+Extraction determinism
+Structured vs unstructured extraction
+Confidence generation reliability
+
+Analyze and answer:
+
+Where can extraction fail silently?
+Where can OCR degrade legal meaning?
+Where can table structures break?
+Where can amendment logic fail?
+Where can clause boundaries become corrupted?
+Where can chunking cause hallucinations?
+Where can semantic context be lost?
+Which extraction areas are deterministic vs probabilistic?
+Which areas are enterprise-risk areas?
+Which areas are likely to fail at scale?
+
+Provide:
+
+OCR Architecture Review
+Parsing Reliability Review
+Table Extraction Review
+Chunking Strategy Review
+Extraction Reliability Review
+Hallucination Risk Review
+Trust & Traceability Review
+Silent Failure Risk Review
+Scalability Risk Review
+Critical Technical Weaknesses
+
+Base everything ONLY on verified repository implementation.
+
+PHASE 3 — Retrieval, RAG & Search Architecture Analysis
+
+You are now acting as a Principal GenAI Retrieval Architect and Enterprise Legal AI Reviewer.
+
+Your task is to deeply analyze the CURRENT retrieval, search, semantic intelligence, and query architecture of the Contract_Codification_Pipeline system.
+
+Determine whether the current architecture can realistically support:
+
+360-degree contract intelligence
+enterprise-grade legal trust
+semantic querying
+contextual reasoning
+historical reasoning
+nuanced clause discovery
+open-ended legal exploration
+grounded contract Q&A
+
+Inspect and analyze:
+
+Existing search/query mechanisms
+SQL-based retrieval
+Genie architecture
+Metadata filtering
+Serving layer design
+Historical/version querying
+Amendment lineage
+Clause retrieval approach
+Evidence traceability
+Query scalability
+Current grounding approach
+Current explainability mechanisms
+
+Critically analyze:
+
+What types of questions CAN the current system answer reliably?
+What types of questions will FAIL?
+Where will semantic reasoning break?
+Where will contextual retrieval fail?
+Where will legal nuance be lost?
+Where will long-tail queries fail?
+Where will historical comparisons become unreliable?
+Where will SQL-only retrieval become insufficient?
+
+Based on the CURRENT implementation, analyze whether the system should adopt:
+
+RAG
+Advanced RAG
+Hybrid Retrieval
+Semantic Search
+Embeddings
+Vector Search
+Clause-level indexing
+Section-aware indexing
+Hierarchical retrieval
+GraphRAG
+Knowledge graphs
+Re-ranking
+Multi-stage retrieval
+Agentic retrieval
+Citation grounding
+Retrieval confidence scoring
+
+IMPORTANT:
+Do NOT blindly recommend technologies.
+First determine whether they are ACTUALLY needed based on the current architecture and business goals.
+
+Provide:
+
+Current Retrieval Architecture Assessment
+Current Query Capability Assessment
+Current Semantic Intelligence Assessment
+Major Retrieval Limitations
+Legal Reasoning Limitations
+SQL vs Semantic Retrieval Analysis
+RAG Necessity Assessment
+Hybrid Retrieval Necessity Assessment
+Trust & Grounding Assessment
+Recommended Retrieval Direction
+Enterprise Legal AI Comparison
+Future Scalability Concerns
+PHASE 4 — Enterprise Trust, Governance & Hallucination Audit
+
+You are now performing an ENTERPRISE TRUST & GOVERNANCE AUDIT for the Contract_Codification_Pipeline system.
+
+Your task is to determine whether this platform can realistically become a TRUSTED enterprise legal AI system.
+
+Analyze deeply:
+
+Hallucination prevention
+Source grounding
+Citation traceability
+Legal defensibility
+Auditability
+Confidence scoring
+Human review support
+Governance architecture
+Data lineage
+Reproducibility
+Version traceability
+Amendment lineage
+Deterministic vs probabilistic outputs
+Explainability
+Error propagation
+Silent corruption risks
+AI trustworthiness
+Operational observability
+Production monitoring
+Enterprise compliance readiness
+
+Analyze and answer:
+
+Can users TRUST the outputs?
+Which outputs are trustworthy?
+Which outputs are risky?
+Where can hallucinations occur?
+Where can incomplete extraction appear valid?
+Where can legal misinterpretation happen?
+Where can amendment supersession become wrong?
+Where can outdated contracts appear current?
+Where can confidence scoring become misleading?
+Which areas require human review?
+Which areas are safe for automation?
+Which areas require deterministic enforcement?
+
+Provide:
+
+Trust Architecture Assessment
+Hallucination Risk Assessment
+Legal Risk Assessment
+Governance Maturity Assessment
+Auditability Assessment
+Confidence Scoring Assessment
+Human-in-Loop Assessment
+Production Reliability Assessment
+Enterprise Readiness Assessment
+Critical Trust Gaps
+Operational Risk Areas
+High-Risk Failure Scenarios
+PHASE 5 — Enterprise Architecture Redesign & Future-State Platform
+
+You are now acting as:
+
+Principal AI Architect
+Enterprise Legal AI Architect
+Principal Databricks Solution Architect
+Enterprise GenAI Platform Reviewer
+
+You have already analyzed the existing Contract_Codification_Pipeline architecture deeply.
+
+Now design the IDEAL FUTURE-STATE ENTERPRISE CONTRACT INTELLIGENCE PLATFORM.
+
+Build a highly trusted enterprise-grade Contract Intelligence Platform capable of:
+
+semantic contract understanding
+historical contract intelligence
+amendment lineage
+clause intelligence
+legal traceability
+grounded question answering
+structured analytics
+enterprise trust
+explainable retrieval
+scalable processing
+low hallucination risk
+long-term maintainability
+
+Design the BEST POSSIBLE architecture for this platform.
+
+You must determine:
+
+What should remain from the current system
+What should be redesigned
+What should be added
+What should be removed
+What should become deterministic
+What should remain AI-driven
+
+Design the ideal:
+
+OCR architecture
+Parsing architecture
+Chunking strategy
+Clause modeling strategy
+Metadata architecture
+Canonical contract model
+Retrieval architecture
+RAG architecture
+Hybrid retrieval architecture
+Embedding strategy
+Vector indexing strategy
+Re-ranking strategy
+Historical/version strategy
+Amendment lineage strategy
+Citation architecture
+Trust architecture
+Governance architecture
+Human-in-loop workflow
+Evaluation framework
+Monitoring & observability
+Scalability architecture
+Databricks-native architecture
+Serving/query architecture
+Enterprise security/governance architecture
+
+Do NOT give generic RAG advice.
+
+Design specifically for:
+
+provider contracts
+legal documents
+amendments
+fee schedules
+complex rate tables
+enterprise trust
+Databricks ecosystem
+large-scale contract intelligence
+
+Provide:
+
+Executive Summary
+Future-State Architecture
+Detailed Component Design
+Recommended Technology Stack
+Recommended Databricks Services
+Recommended Retrieval Architecture
+Recommended Chunking Strategy
+Recommended Metadata Model
+Recommended Trust Architecture
+Recommended Governance Framework
+Recommended Evaluation Framework
+Recommended Human Review Workflow
+Recommended Migration Strategy
+Quick Wins
+High-Impact Improvements
+Long-Term Strategic Architecture
+Productionization Roadmap
+Final Enterprise Architecture Verdict
